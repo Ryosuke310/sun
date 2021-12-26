@@ -18,6 +18,11 @@ body{
 }
 div{
     width: 100%;
+    margin: 15px 0;
+}
+p{
+    margin: 15px 0;
+    line-height: 1.8rem;
 }
 img{
     width: 100%;
