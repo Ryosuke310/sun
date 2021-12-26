@@ -1,0 +1,30 @@
+@media screen and (min-width:767px){
+    body{
+        width:50%;
+        margin:0 auto;
+    }
+    div{
+        margin: 20px 0;
+    }
+    p{
+        margin: 20px 0;
+        line-height: 2.2rem;
+    }
+}
+div{
+    width: 100%;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+
+h2{
+    border-bottom: 1px solid #ff69b4;
+    border-left: 10px solid #ff69b4;
+    text-align: left;
+    background-color: #fff;
+    margin: 45px 0px 20px;
+    padding: 2px 5px 2px 5px;
+    font-size:24px;
+}
