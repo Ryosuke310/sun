@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+@import url("http://fonts.googleapis.com/earlyaccess/notosansjapanese.css");
 @media screen and (min-width:767px){
     body{
         width:50%;
@@ -14,7 +14,7 @@
 }
 body{
     padding: 0 2%;
-    font-family: 'Noto Sans Japanese', sans-serif;
+    font-family: 'Noto Sans Japanese', sans-serif!important;
 }
 div{
     width: 100%;
